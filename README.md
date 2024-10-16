@@ -85,3 +85,8 @@ These parameters were selected to optimize the model's performance.
 ## Conclusion
 
 The Random Forest model, with tuned hyperparameters, has demonstrated the best performance for phishing detection in our analysis. Its high accuracy, precision, recall, and F1 score indicate that it is a robust choice for identifying phishing websites effectively.
+
+---
+**Author**: Abhilash Antony  
+**GitHub**: [abhilash-antony](https://github.com/abhilash-antony)  
+**Date**: August 2024
